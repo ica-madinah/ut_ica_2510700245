@@ -1,0 +1,7 @@
+{
+  "name": "uts-rental-mobil",
+  "private": true,
+  "scripts": {
+    "dev": "php artisan serve"
+  }
+}
